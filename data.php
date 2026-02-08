@@ -1,5 +1,5 @@
 <?php
-
+ # one line commit add
 include 'database.php';
 
  $query = new Query();
